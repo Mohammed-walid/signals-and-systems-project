@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains the MATLAB scripts, workspace data, and the final analytical report for our Signals and Systems course project. The project focuses on bridging analytical signal theory with computational implementation using MATLAB, covering topics like frequency spectrums, bandwidth efficiency, and Fourier series.
-
+Project was done in 12/2025
 ## Authors
 * **Samer Fouad Magdy** 
 * **Mohamed Walid**
