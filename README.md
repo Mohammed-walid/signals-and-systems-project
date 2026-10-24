@@ -1,24 +1,24 @@
 # Signals and Systems MATLAB Project
 
 ## Overview
-This repository contains the MATLAB scripts, workspace data, and the final analytical report for our Signals and Systems course project[cite: 1, 12]. The project focuses on bridging analytical signal theory with computational implementation using MATLAB, covering topics like frequency spectrums, bandwidth efficiency, and Fourier series.
+This repository contains the MATLAB scripts, workspace data, and the final analytical report for our Signals and Systems course project. The project focuses on bridging analytical signal theory with computational implementation using MATLAB, covering topics like frequency spectrums, bandwidth efficiency, and Fourier series.
 
 ## Authors
 * **Samer Fouad Magdy** 
 * **Mohamed Walid**
 
 ## Key Concepts Explored
-* **Spectrum Analysis & Exponential Smoothing:** Analyzing how shifted exponential signals introduce phase shifts and smooth the spectrum by reducing high-frequency components[cite: 7].
-* **Bandwidth Efficiency:** Comparing the bandwidth efficiency of different signals and observing the effects of time-domain truncation (e.g., sinc side lobes)[cite: 7].
-* **Fourier Series:** Calculating and plotting Fourier series coefficients ($D_n$) and average signal values[cite: 6].
-* **Signal Generation:** Creating piecewise functions and manipulating amplitudes, frequencies, and breakpoints[cite: 11].
+* **Spectrum Analysis & Exponential Smoothing:** Analyzing how shifted exponential signals introduce phase shifts and smooth the spectrum by reducing high-frequency components.
+* **Bandwidth Efficiency:** Comparing the bandwidth efficiency of different signals and observing the effects of time-domain truncation (e.g., sinc side lobes).
+* **Fourier Series:** Calculating and plotting Fourier series coefficients ($D_n$) and average signal values.
+* **Signal Generation:** Creating piecewise functions and manipulating amplitudes, frequencies, and breakpoints.
 
 ## Repository Contents
-* `Q1.m` & `Q1.mat`: Script and workspace data for generating signal energy, spectrum analysis, and plotting[cite: 8].
-* `Q2Marlab.m` & `Q2Marlab.mat`: Script and data focusing on rectangular pulses, carrier signals, and bandwidth efficiency comparisons[cite: 9].
-* `Q3Matlab.m` & `Q3Matlab.mat`: Script and data for calculating Fourier series coefficients and signal reconstruction[cite: 10].
-* `part2.m` & `part2.mat`: Script and data for generating signals based on specific breakpoints and slopes[cite: 11].
-* `Signals And Systems Project.pdf`: The complete analytical report containing step-by-step theoretical solutions and the corresponding MATLAB figures[cite: 1, 2, 3, 4, 5, 6].
+* `Q1.m` & `Q1.mat`: Script and workspace data for generating signal energy, spectrum analysis, and plotting.
+* `Q2Marlab.m` & `Q2Marlab.mat`: Script and data focusing on rectangular pulses, carrier signals, and bandwidth efficiency comparisons.
+* `Q3Matlab.m` & `Q3Matlab.mat`: Script and data for calculating Fourier series coefficients and signal reconstruction.
+* `part2.m` & `part2.mat`: Script and data for generating signals based on specific breakpoints and slopes.
+* `Signals And Systems Project.pdf`: The complete analytical report containing step-by-step theoretical solutions and the corresponding MATLAB figures.
 
 ## How to Run
 1. Clone the repository to your local machine.
